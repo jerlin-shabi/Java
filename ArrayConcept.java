@@ -1,16 +1,12 @@
 import java.util.Scanner;
 
-class Main {
+class ArrayConcept {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        int[] arr1=new int[10];
+        for(int i=0;i<arr1.length;i++){
+            arr1[i]=sc.nextInt();
 
-        int[] arr = new int[5];
-
-        for (int i = 0; i < arr.length; i++) {
-            arr[i] = sc.nextInt();
-        }
-
-        System.out.println(arr[0]);
-        System.out.println(arr[3]);
+        }System.out.println(arr1[1]);
     }
 }
