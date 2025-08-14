@@ -5,5 +5,7 @@ public class StringBuild {
     System.out.println(str);
     str.insert(4," and");
     System.out.println(str);
+    str.replace(4,8," now");
+    System.out.println(str);
   }  
 }
