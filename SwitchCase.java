@@ -15,7 +15,7 @@ public class SwitchCase
 		          System.out.println("febrauary");  
 		   		  System.out.println("28");
 		   		  break;
-             case 3:
+            case 3:
 		          System.out.println("march");  
 		   		  System.out.println("31");
 		   		  break;
@@ -27,7 +27,7 @@ public class SwitchCase
 		          System.out.println("may");  
 		   		  System.out.println("31");
 		   		  break;
-             case 6:
+            case 6:
 		          System.out.println("june");  
 		   		  System.out.println("30");
 		   		  break;
